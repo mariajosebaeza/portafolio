@@ -1,0 +1,53 @@
+/*Header style */ 
+nav {
+	background-color: #f48fb1;
+}
+.nombre{
+	font-family: 'Lobster', cursive;
+	margin-left: 3%;
+}
+
+.banner {
+	background-image: url(../img/banner.jpg);	
+	height: 70vh;
+	}
+.name{
+	font-family:'Lobster', cursive;
+	color: #FFF;
+	margin-top: 8%;
+}
+.lastname{
+	font-family:'Lobster', cursive;
+	color: #FFF;
+}
+
+/*abautme style */ 
+p{
+	margin-top: 15%;
+}
+.fotomajo{
+	height: 80%;
+	width: 80%;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+/* Proyectos style */ 
+#proyectos{
+	background-color: #bdbdbd;
+	padding-top: 4%;
+}
+.tituloproyectos{
+	font-family: 'Lobster', cursive;
+	margin-left: 3%;
+	color: #fff;
+}
+.carta{
+	width: 71%;
+	height: 58%;
+	margin-left: 8%;
+}
+
+/*Footer style */ 
+footer{
+	background-color: #f48fb1;
+}
