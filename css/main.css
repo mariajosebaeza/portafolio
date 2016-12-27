@@ -21,6 +21,10 @@ nav {
 }
 
 /*abautme style */ 
+#abautme{
+	padding-top: 3%;
+	padding-bottom: 3%;
+}
 p{
 	margin-top: 15%;
 }
